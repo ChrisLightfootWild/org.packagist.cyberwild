@@ -1,0 +1,7 @@
+{
+    "name": "cyberwild/claim",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.2"
+    }
+}
